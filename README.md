@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 - [ ] User is using **"Twitter branded" colors and styles**
 - [x] User can click links in tweets launch the web browser 
-- [] User can **select "reply" from detail view to respond to a tweet**
+- [ ] User can **select "reply" from detail view to respond to a tweet**
 - [ ] The "Compose" action is moved to a FloatingActionButton instead of on the AppBar
 - [ ] Compose tweet functionality is build using modal overlay
 - [ ] Use Parcelable instead of Serializable using the popular [Parceler library](http://guides.codepath.org/android/Using-Parceler).
